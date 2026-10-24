@@ -1,0 +1,10 @@
+{
+  "name": "objetivoc1",
+  "private": true,
+  "type": "module",
+  "description": "App web para seguir el plan de inglés C1 en 24 semanas",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "python3 -m http.server 8000"
+  }
+}

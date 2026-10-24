@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#2a78d6"/>
+  <path d="M96 392 L196 300 L268 340 L408 184" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="300" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="210" font-weight="800" fill="#ffffff">C1</text>
+</svg>

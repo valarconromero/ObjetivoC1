@@ -1,0 +1,60 @@
+{
+  "title": "Plan C1 de inglés en 24 semanas",
+  "exam": "Oxford Test of English Advanced",
+  "start": "2026-10-26",
+  "weeks_total": 24,
+  "checkpoints": [1, 8, 16, 20, 23],
+  "blocks": [
+    { "id": "speaking", "hours": 3, "what": "3-4 sesiones en el proyecto English Coach (role-play) + grabarte 5 min hablando de un tema y escucharte" },
+    { "id": "listening", "hours": 2.5, "what": "Vídeos o podcasts en inglés. Una vez por semana, \"listening activo\": un trozo de 2 min, lo transcribes y lo comparas con los subtítulos" },
+    { "id": "writing", "hours": 1.5, "what": "2 textos por semana (uno corto de 150 palabras y uno largo de 250). Te los corrigen y reescribes la versión buena" },
+    { "id": "reading", "hours": 1, "what": "Artículos de noticias o de tecnología. Apuntas 5-10 expresiones nuevas" },
+    { "id": "grammar", "hours": 1.5, "what": "El tema de gramática de la semana + repaso diario de tus frases en Anki (10 min)" },
+    { "id": "shadowing", "hours": 0.5, "what": "Repetir en voz alta, a la vez, un audio corto imitando ritmo y entonación" }
+  ],
+  "rules": [
+    { "title": "Día corto (30 min o menos)", "text": "10 min de Anki + 20 min de listening. Así no rompes la racha." },
+    { "title": "Día largo (3-4 h)", "text": "Aprovecha para lo que más cuesta arrancar: el texto largo de writing y una sesión de speaking larga." },
+    { "title": "Cada viernes (5 min)", "text": "Apunta las horas hechas, lo que más te ha costado y 5 frases nuevas." }
+  ],
+  "phases": [
+    { "name": "Fase 1. Diagnóstico y B2 sólido", "from": 1, "to": 8, "goal": "Quitarte los fallos de base y ganar soltura hablando. Listening con subtítulos en inglés." },
+    { "name": "Fase 2. Hacia el C1", "from": 9, "to": 16, "goal": "Pasar de \"me entiendo\" a \"me expreso con matices\". Listening sin subtítulos siempre que puedas." },
+    { "name": "Fase 3. Pulir el C1", "from": 17, "to": 20, "goal": "Trabajar fuerte tu parte más floja según el checkpoint y empezar con el formato del examen. Si una parte está muy por debajo, dale 1-2 h extra por semana quitándolas de la más fuerte." },
+    { "name": "Fase 4. Examen", "from": 21, "to": 24, "goal": "Llegar al examen sabiendo exactamente qué te vas a encontrar." }
+  ],
+  "weeks": [
+    { "week": 1, "grammar": "Demo del examen completa (las 4 partes). Apunta tu nivel en cada una", "speaking": "Presentarte: quién eres, tu trabajo, tu familia", "writing": "Correo presentándote a tu nuevo equipo", "checkpoint": true },
+    { "week": 2, "grammar": "Tiempos verbales: pasados (simple, continuo, perfecto)", "speaking": "Contar tu fin de semana con detalle", "writing": "Contar algo que te pasó en el trabajo" },
+    { "week": 3, "grammar": "Presente perfecto vs pasado simple", "speaking": "Primeros minutos de una videollamada", "writing": "Correo pidiendo una reunión" },
+    { "week": 4, "grammar": "Futuros y planes (will, going to, presente continuo)", "speaking": "Planificar el sprint con tu equipo", "writing": "Plan de trabajo para la próxima semana" },
+    { "week": 5, "grammar": "Condicionales 1 y 2", "speaking": "Viajes: un viaje que te marcó (Antibes)", "writing": "Opinión: ¿teletrabajo o oficina?" },
+    { "week": 6, "grammar": "Phrasal verbs del trabajo (set up, roll out, follow up…)", "speaking": "Explicar un problema técnico a alguien no técnico", "writing": "Informe corto de una incidencia" },
+    { "week": 7, "grammar": "Conectores básicos (however, although, so that…)", "speaking": "Comida con compañeros: comida, aficiones, libros", "writing": "Reseña de un libro o serie" },
+    { "week": 8, "grammar": "Repaso de la fase", "speaking": "Dar feedback positivo a alguien del equipo", "writing": "Correo de agradecimiento a un equipo", "checkpoint": true },
+    { "week": 9, "grammar": "Condicional 3 y mixtos (if I had known…)", "speaking": "Navidades y tradiciones en España", "writing": "Lo que harías distinto este año", "note": "Navidad: si solo llegas a 5 h, no pasa nada." },
+    { "week": 10, "grammar": "Repaso suave + vocabulario de opiniones", "speaking": "Propósitos de año nuevo", "writing": "Opinión: ¿la IA cambiará tu profesión?", "note": "Navidad: si solo llegas a 5 h, no pasa nada." },
+    { "week": 11, "grammar": "Pasiva y \"have something done\"", "speaking": "Negociar prioridades con otro equipo", "writing": "Propuesta para cambiar un proceso" },
+    { "week": 12, "grammar": "Verbos modales para suposiciones (might have, must have)", "speaking": "Investigar qué salió mal en un despliegue", "writing": "Postmortem de una incidencia" },
+    { "week": 13, "grammar": "Lenguaje para suavizar (I'd suggest, it might be worth…)", "speaking": "Dar feedback negativo a alguien del equipo", "writing": "Correo diciendo que no a una petición" },
+    { "week": 14, "grammar": "Expresiones idiomáticas frecuentes del trabajo", "speaking": "Noticias de la semana: dar tu opinión", "writing": "Artículo de opinión sobre una noticia" },
+    { "week": 15, "grammar": "Inversión y énfasis (not only… but also, what I need is…)", "speaking": "Defender un presupuesto ante tu jefe", "writing": "Informe comparando dos opciones" },
+    { "week": 16, "grammar": "Repaso de la fase", "speaking": "Conversación libre larga (30 min) sobre cualquier tema", "writing": "Texto largo sobre un tema del examen", "checkpoint": true },
+    { "week": 17, "grammar": "Curso gratuito de Oxford: módulo de Reading", "speaking": "Gestionar un conflicto entre dos personas del equipo", "writing": "Correo formal de queja" },
+    { "week": 18, "grammar": "Curso de Oxford: módulo de Listening", "speaking": "Llamada de teléfono con un proveedor", "writing": "Resumir un texto largo para otra persona (mediación)" },
+    { "week": 19, "grammar": "Curso de Oxford: módulo de Writing", "speaking": "Presentar resultados del trimestre", "writing": "Texto tipo examen, cronometrado" },
+    { "week": 20, "grammar": "Curso de Oxford: módulo de Speaking", "speaking": "Simulacro de speaking tipo examen", "writing": "Texto tipo examen, cronometrado", "checkpoint": true },
+    { "week": 21, "grammar": "Si el checkpoint dio C1 en todo: reserva el examen (hay que hacerlo con unas 2 semanas de antelación)", "speaking": "Simulacros de speaking cronometrados", "writing": "2 textos tipo examen cronometrados" },
+    { "week": 22, "grammar": "Repasar tus errores repetidos", "speaking": "Simulacros de speaking", "writing": "2 textos tipo examen" },
+    { "week": 23, "grammar": "Demo final completa en condiciones de examen", "speaking": "Conversación libre para soltarte", "writing": "1 texto tipo examen", "checkpoint": true },
+    { "week": 24, "grammar": "Semana suave: solo repaso ligero y descanso antes del examen", "speaking": "Charla suave para calentar", "writing": "Nada nuevo" }
+  ],
+  "booking": {
+    "intro": "Reservas solo cuando la demo te dé C1 en las cuatro partes. El examen cuesta unos 132-137 € según el centro.",
+    "rows": [
+      { "result": "C1 en las cuatro partes", "action": "Reservas en la semana 21 y sigues el plan" },
+      { "result": "C1 en tres, B2 alto en una", "action": "Alargas 3-4 semanas trabajando solo esa parte y repites la demo" },
+      { "result": "B2 en dos o más", "action": "Alargas 6-8 semanas repitiendo la fase 3, centrado en las partes flojas" }
+    ]
+  }
+}
